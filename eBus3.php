@@ -59,7 +59,7 @@
     
     ?>
     
-    <a href="ConsultingServices.html" class="button">Return to Shop Homepage</a>
+    <a href="MainPage.html" class="button">Return to Shop Main Page</a>
 
    
     </center>
